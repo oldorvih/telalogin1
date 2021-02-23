@@ -33,7 +33,8 @@
         <input type="secret" id="lname" name="lname"><br><br>
         <button type="button">OK</button>
       </form> 
-      
+      <p></p>
+<input type="reset">
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
     </body>
